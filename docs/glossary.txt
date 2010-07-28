@@ -1,0 +1,109 @@
+Arcade Game Maker Pedagogical Product Line: Acronym List/Glossary
+
+ACB
+
+Architecture Control Board
+
+AGM
+
+Arcade Game Maker
+
+application engineering
+
+discipline of constructing a product using the product line architecture and selecting from the inventory of available product line components based on the production plan
+
+ATAM
+
+Architecture Tradeoff Analysis Method®
+
+CCB
+
+Configuration Change Board
+
+CEO
+
+chief executive officer
+
+CLR
+
+common language runtime
+
+core asset
+
+reusable artifacts and resources that form the basis for the software product line
+
+CM
+
+configuration management
+
+DHR
+
+director of human resources
+
+domain engineering
+
+discipline of creating, acquiring, and managing the resources needed to build a set of products
+
+FODA
+
+feature-oriented domain analysis
+
+IDE
+
+integrated development environment
+
+IEEE
+
+Institute of Electrical and Electronics Engineers
+
+MVC
+
+model-view-controller
+
+MIDP
+
+Mobile Information Device Profile
+
+PLM
+
+product line manager
+
+product
+
+any saleable or usable output produced from the product line core assets
+
+RUP
+
+Rational Unified Process
+
+software product line
+
+group of products sharing a common, managed set of features that satisfy specific needs of a selected market or mission and that are developed from a common set of core assets in a prescribed way
+
+TE
+
+test effectiveness
+
+UML
+
+Unified Modeling Language
+
+VC
+
+version control
+
+VPBA
+
+vice president for business affairs
+
+VPPD
+
+vice president for product development
+
+VPPP
+
+vice president for product planning
+
+WAP
+
+wireless access protocol
